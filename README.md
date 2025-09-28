@@ -6,7 +6,7 @@ This app analyzes a user-entered URL and classifies it as **Safe, Suspicious, or
 
 # 🚀 Live App
 
-🔗 [Click here to use the live app](https://phishing-detector-68kaodtt9pmnrtb8x9gjrs.streamlit.app/)
+🔗 [Click here to use the live app](https://phishing-url-detector-fve7i6csfbrcgu6u5reuxc.streamlit.app/)
 
 
 ## ✨ Features
